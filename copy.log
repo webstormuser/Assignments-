@@ -1,0 +1,7 @@
+
+08-04-2022 13:33:52 | INFO | Looking inC:\Users\shree\PycharmProjects\ConnectionProject\sourceFolder for files with extensions of.pdf,.xlsx,docx
+08-04-2022 13:33:52 | INFO |  Copying C:\Users\shree\PycharmProjects\ConnectionProject\sourceFolder\bank statement clean data.xlsx to C:\Users\shree\PycharmProjects\ConnectionProject\selectiveFolder
+08-04-2022 13:33:52 | INFO |  Copying C:\Users\shree\PycharmProjects\ConnectionProject\sourceFolder\pandas(1).pdf to C:\Users\shree\PycharmProjects\ConnectionProject\selectiveFolder
+08-04-2022 13:33:52 | INFO |  Copying C:\Users\shree\PycharmProjects\ConnectionProject\sourceFolder\pandas.pdf to C:\Users\shree\PycharmProjects\ConnectionProject\selectiveFolder
+08-04-2022 13:33:52 | INFO |  Copying C:\Users\shree\PycharmProjects\ConnectionProject\sourceFolder\pq-for-accountants.xlsx to C:\Users\shree\PycharmProjects\ConnectionProject\selectiveFolder
+08-04-2022 13:33:52 | INFO | No of files are copied 4
