@@ -1,0 +1,23 @@
+
+INFO 2022-08-27 10:48:36,921 root  Birth year is :1990
+INFO 2022-08-27 10:48:43,329 root  Birth year is :1990
+INFO 2022-08-27 10:48:43,330 root [1990, 1991, 1992, 1993, 1994]
+INFO 2022-08-27 10:48:43,332 root 3rd birthday is in :1993
+INFO 2022-08-27 10:50:13,224 root  Birth year is :1990
+
+INFO 2022-08-27 10:52:21,024 root  Birth year is :1990
+INFO 2022-08-27 10:52:21,026 root  The year iin which oldest is 1994
+
+
+INFO 2022-08-27 10:59:15,985 root ['mozzarella', 'Cinderella', 'salmonella']
+
+INFO 2022-08-27 11:01:55,951 root Original list is :['Groucho', 'Chico', 'Harpo']
+INFO 2022-08-27 11:04:17,701 root ['Groucho', 'Chico', 'harpo']
+INFO 2022-08-27 11:08:45,068 root Original list is :['Groucho', 'Chico', 'Harpo']
+INFO 2022-08-27 11:08:55,293 root Oprah
+
+
+INFO 2022-08-27 11:20:31,481 root {'animals': {'cats': ['Henri', 'Grumpy', 'Lucy'], 'octopi': {}, 'emus': {}}, 'plants': {}, 'others': {}}
+INFO 2022-08-27 11:21:23,096 root top level keys are:dict_keys(['animals', 'plants', 'others'])
+INFO 2022-08-27 11:23:00,239 root dict_keys(['cats', 'octopi', 'emus'])
+INFO 2022-08-27 11:23:58,602 root ['Henri', 'Grumpy', 'Lucy']
